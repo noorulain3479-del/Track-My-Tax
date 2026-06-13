@@ -294,6 +294,3 @@ VITE_API_URL=http://127.0.0.1:5000/api
 | Blockchain | Ganache (local), Web3.py, Solidity, Hardhat |
 | ML | scikit-learn RandomForest, TensorFlow MobileNetV2 (CPU) |
 
-## Contributors
-- @Faiza-Khalid — project collaborator
-
