@@ -293,3 +293,6 @@ VITE_API_URL=http://127.0.0.1:5000/api
 | Database | MySQL 8 via PyMySQL |
 | Blockchain | Ganache (local), Web3.py, Solidity, Hardhat |
 | ML | scikit-learn RandomForest, TensorFlow MobileNetV2 (CPU) |
+
+## Contributors
+- @Faiza-Khalid — project collaborator
